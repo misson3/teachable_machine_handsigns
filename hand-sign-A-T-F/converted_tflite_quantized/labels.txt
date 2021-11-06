@@ -1,0 +1,4 @@
+0 Aircon
+1 TVset
+2 Fan
+3 none
